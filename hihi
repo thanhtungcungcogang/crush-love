@@ -1,0 +1,10 @@
+const CONFIGDATA = {
+  titleHeader: "hi cậu, tùng có điều muốn nói. </br>!",
+  descriptionHeader:
+    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
+  buttonYes: "Tớ đồng ý",
+  buttonNo: "Không đồng ý",
+  titleModar: "Cảm ơn Nhi nhiều lắm.",
+  descriptionModar:
+    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh nhi, che chở và bảo vệ nhi. </br> Tớ biết tớ không giỏi thể hiện cảm xúc những tớ thật sự yêu nhi.từ khi cậu xuất hiện cậu đã tớ đã cười rất nhiều và cảm thấy vui vẻ hơn trước roài tớ không còn suy nghĩ linh tinh nhiều nữa đây là lần đầu tớ đc đón valentine và người đó cũng chính là nhii tùng mong tụi mình cùng nhau cố gắng để tiếp tục cùng nhau đi ở quãng đường sắp tới hihihi. </br>yeuuuuu nhiiiiiiiiiiiiiiiiiiiiiii nhiềuuuuuuuuuuuuuuu..</br> ",
+};
